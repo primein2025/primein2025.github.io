@@ -1,0 +1,48 @@
+
+.depicter-revert .depicter-42-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-4 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-8 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-11 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-42-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-4 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-8 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-11 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-42-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-4 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-8 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-42-section-11 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
